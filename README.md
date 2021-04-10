@@ -1,4 +1,4 @@
-# Game Of Thrones Js Build
+# Accesibility Build
 
 licensed under The MIT License.
 **_please note this build would just have one video, it is advised to download the videos from an external sources(link below) and link them in the index file._**
@@ -11,4 +11,4 @@ licensed under The MIT License.
 * Mobile Browsers: Although it may play, the sizing is not optimised for it.
 
 ### Just open the index file and click on the sigils to see the content and controls.
-# Dimri_S_Accessibility
+
